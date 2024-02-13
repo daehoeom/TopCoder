@@ -1,0 +1,14 @@
+D:\TopCoder\TopCoder\TopCoder\bin\Debug\net6.0\TopCoder.exe
+D:\TopCoder\TopCoder\TopCoder\bin\Debug\net6.0\TopCoder.deps.json
+D:\TopCoder\TopCoder\TopCoder\bin\Debug\net6.0\TopCoder.runtimeconfig.json
+D:\TopCoder\TopCoder\TopCoder\bin\Debug\net6.0\TopCoder.dll
+D:\TopCoder\TopCoder\TopCoder\bin\Debug\net6.0\TopCoder.pdb
+D:\TopCoder\TopCoder\TopCoder\obj\Debug\net6.0\TopCoder.GeneratedMSBuildEditorConfig.editorconfig
+D:\TopCoder\TopCoder\TopCoder\obj\Debug\net6.0\TopCoder.AssemblyInfoInputs.cache
+D:\TopCoder\TopCoder\TopCoder\obj\Debug\net6.0\TopCoder.AssemblyInfo.cs
+D:\TopCoder\TopCoder\TopCoder\obj\Debug\net6.0\TopCoder.csproj.CoreCompileInputs.cache
+D:\TopCoder\TopCoder\TopCoder\obj\Debug\net6.0\TopCoder.dll
+D:\TopCoder\TopCoder\TopCoder\obj\Debug\net6.0\refint\TopCoder.dll
+D:\TopCoder\TopCoder\TopCoder\obj\Debug\net6.0\TopCoder.pdb
+D:\TopCoder\TopCoder\TopCoder\obj\Debug\net6.0\TopCoder.genruntimeconfig.cache
+D:\TopCoder\TopCoder\TopCoder\obj\Debug\net6.0\ref\TopCoder.dll
